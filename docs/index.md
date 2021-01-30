@@ -1,6 +1,6 @@
 # Welcome
 
-Welcome to Wiki Pages of Information Technology and Communication Sciences at Tampere University.
+Welcome to Unofficial Wiki Pages of Information Technology and Communication Sciences at Tampere University.
 
 This wiki is meant to be a tool for personnel of our department, supporting research and teaching needs. You (yes you!) can contribute content to this wiki and help us building the common crowdsourced knowledge database.
 
